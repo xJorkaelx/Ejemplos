@@ -1,1 +1,2 @@
 Este el archivo de prueba para la conexion con git hub
+Agrego una nueva linea para comprobar la utilidad del comando git status --short
